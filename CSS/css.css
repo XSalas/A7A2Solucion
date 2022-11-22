@@ -1,0 +1,57 @@
+* {
+	padding: 0;
+	margin: 0;
+}
+
+body {
+	font-family: 'Work Sans' , sans-serif;
+}
+
+.header {
+	background-image: url(../img/cabezera.jpg);
+	background-size: cover;
+	height: 600px;
+}
+
+.header h1 {
+	color: white;
+	padding: 20% 30%;
+	font-size: 50px;
+}
+
+.main h1 {
+	padding: 40px 40px;
+}
+
+.allen {
+	height: 453px;
+	padding-right: 10px;
+}
+
+.ben {
+	height: 453px;
+	width: 653px;
+}
+.bryant {
+	padding-top: 10px;
+	width: 1348px;
+	height: 600px;
+	padding-bottom: 30px;
+}
+.all-94 {
+	width: 250px;
+	padding-left: 40px;
+	padding-right: 30px;
+}
+.all-96 {
+    width: 250px;
+    padding-bottom: 30px;
+    padding-right: 30px;
+}
+.all-98 {
+    width: 250px;
+    padding-right: 30px;
+}
+.all-05 {
+    width: 400px;
+}
